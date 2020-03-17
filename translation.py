@@ -36,7 +36,7 @@ Telegram ID: <code>{}</code>
 Plan name: <a href='https://t.me/JokkerKing'>full free</a>
 Expires on: {}"""
     HELP_USER = """There are multiple things I can do:
-👉 <a href="https://t.me/SpEcHlDe/608">All Supported Video / File Formats, with custom file name and custom thumbnail support</a>
+👉 <a href="https://t.me/allonetgbot">All Supported Video / File Formats, with custom file name and custom thumbnail support</a>
 👉 <a href="https://telegra.ph/How-to-use-This-Bot-03-16">Upload as file from any HTTP link, with custom thumbnail support</a>
 👉 <a href="https://telegram.dog/alloneTGbot">Convert To Streamable Video, any Telegram file</a>
 👉 <a href="https://telegram.dog/alloneTGbot">Convert To Telegram Audio, the media sent as Telegram Documents</a>
