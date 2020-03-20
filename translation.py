@@ -33,8 +33,8 @@ URL | filename | username | password"""
     CURENT_PLAN_DETAILS = """Current plan details
 --------
 Telegram ID: <code>{}</code>
-Plan name: <a href='https://t.me/JokkerKing'>full free</a>
-Expires on: {}"""
+Plan name: <a href='https://t.me/JokkerKing'>FULL FREE</a>
+Expires on: 31/12/2021"""
     HELP_USER = """There are multiple things I can do:
 👉 <a href="https://t.me/allonetgbot">All Supported Video / File Formats, with custom file name and custom thumbnail support</a>
 👉 <a href="https://telegra.ph/How-to-use-This-Bot-03-16">Upload as file from any HTTP link, with custom thumbnail support</a>
