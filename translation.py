@@ -34,7 +34,7 @@ URL | filename | username | password"""
 --------
 Telegram ID: <code>{}</code>
 Plan name: <a href='https://t.me/JokkerKing'>FULL FREE</a>
-Expires on: 31/12/2021"""
+Expires on: Until my Death 😎"""
     HELP_USER = """There are multiple things I can do:
 👉 <a href="https://t.me/allonetgbot">All Supported Video / File Formats, with custom file name and custom thumbnail support</a>
 👉 <a href="https://telegra.ph/How-to-use-This-Bot-03-16">Upload as file from any HTTP link, with custom thumbnail support</a>
@@ -62,7 +62,7 @@ Send /me to know current plan details"""
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = "Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
     INVALID_UPLOAD_BOT_URL_FORMAT = "URL format is incorrect. make sure your url starts with either http:// or https://. You can set custom file name using the format link | file_name.extension"
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
-    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "https://telegram.dog/FFMpegRoBot"
+    FF_MPEG_RO_BOT_AD_VER_TISE_MENT = "https://telegram.dog/JokkerKing"
     EXTRACT_ZIP_INTRO_ONE = "Send a compressed file first, Then reply /unzip command to the file."
     EXTRACT_ZIP_INTRO_THREE = "Analyzing received file. ⚠️ This might take some time. Please be patient. "
     UNZIP_SUPPORTED_EXTENSIONS = ("zip", "rar")
